@@ -43,7 +43,7 @@ var item="Football";
 var salesTaxPercentage= originalPrice * thirtyPercentage;
 var discountPercentage=originalPrice * tenPercentage;
 //Make Sure all values and variables are listed and declared
-// Start of Console log statement aka Result Fromat
+// Start of Console log statement aka Result Format
 console.log("Your "+item+" was originally $"+originalPrice+", but after a "+percentDiscountRawNumber+"% discount, it is now $"+discountPercentage+" without tax, and $"+salesTaxPercentage+" with tax");
 
 
