@@ -70,5 +70,28 @@ console.log(counter);
 
 
 
+// String - Is any text variable
+//" Is used at the beginning and end of the string"
+//Used to distinguish between variable name and random text
+//Single Quotes ' and double quotes " are both used, BUT must match "", '', etc.
+
+
+
+var kermit="light green";
+var frogName="Kermit";
+console.log(frogName);
+//Double quote or single quote?
+// can use an escaping character \ backslash in front of the apostrophe
+var phrase='I do not know!';
+console.log(phrase);
+
+// Multi - lines by using \n - new line character
+var phrase2 = "I don't know! \nYou never know";
+console.log(phrase2);
+
+
+
+
+
 
 
