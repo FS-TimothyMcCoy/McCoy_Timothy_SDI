@@ -114,6 +114,27 @@ console.log(average);
 //Do NOT overuse Parenthesis
 
 
+//concatenation - combining text strings
+//use the + plus sign for text and not just numbers
+var firstName= "Kermit";
+var lastName= "The Frog";
+//Concatenate the first and last name into a full name
+var fullName= firstName +" "+ lastName;
+console.log(fullName);
+console.log(fullName +" is my favorite muppet!");
+
+var d = "6";
+var e = "7";
+var combine= d+e;
+console.log(combine);
+//Constant values are always UPPERCASE
+var PI =3.14;
+
+//Round to a decimal place
+//toFixed(#) - # is how many decimal places you want
+var num= 5.37293759
+num= num.toFixed(2);
+console.log(num);
 
 
 
