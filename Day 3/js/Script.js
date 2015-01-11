@@ -89,6 +89,29 @@ console.log(phrase);
 var phrase2 = "I don't know! \nYou never know";
 console.log(phrase2);
 
+// Boolean
+//Kind of like a light switch either on or off
+//true of false - NOT "true" or "false"
+
+var yes= true;
+var nope= false;
+//This is not a boolean
+var wrong="true";
+
+
+//Order of Operations
+//PEMDAS - Please excuse my dear aunt sally
+// Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction
+
+//Find quiz averages
+var quiz1= 87;
+var quiz2= 100;
+var quiz3= 70;
+
+//Average - add them up and divide by how many there are
+var average= (quiz1 +quiz2+ quiz3) /3;
+console.log(average);
+//Do NOT overuse Parenthesis
 
 
 
