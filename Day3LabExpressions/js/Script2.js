@@ -14,8 +14,18 @@ console.log("Each Person ate " + quotient + " slices of Pizza at the party.");
 
 var dogName= "Sparky";
 console.log(dogName);
-var remai
-
+var remainder = total % people;
+// Remainder for sparky has been identified
+console.log(remainder);
+console.log("Sparky got " + remainder + " slices of pizza." );
+// 5 People, 2 pizzas, and 6
+//Variables
+var week1=20;
+var week2=35;
+var week3=50;
+var week4=13;
+var week5=48;
+//Add 
 
 
 
