@@ -51,4 +51,4 @@ var shoesBought = prompt("How many pairs of shoes did you buy?");
 
  //Add shoesHad plus shoesBought for total number of shoes
 var totalShoes = parseInt(shoesHad) + parseInt(shoesBought);
- console.log(totalShoes); 
+ console.log(totalShoes);
