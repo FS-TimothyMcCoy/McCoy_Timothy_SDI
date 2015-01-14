@@ -17,4 +17,13 @@ var userInput =("Two new Steps have been added to the process.");
 console.log(userInput);
 var userInput2 = ("Next, you must add an even integer to your answer then divide it by\n another even integer below the number 6.");
 console.log(userInput2);
-   
+//Start asking for the two additional steps' values.
+var originalAddedInteger = parseInt(prompt("Input a value for the even integer that\n you must add to your answer."));
+var originalDividedInteger = parseInt(prompt("Input one more value to be divided by that answer\n which will complete your answer."));
+var addedInteger = originalAddedInteger;
+var dividedInteger = originalDividedInteger;
+var addedIntegerCont = addedInteger+= perimeterTriangle;
+var overallAnswer = addedIntegerCont/= dividedInteger;
+console.log("After Adding "+originalAddedInteger+" to "+perimeterTriangle+" you got "+addedInteger+" which you divided by "
++originalDividedInteger+" to get your overall answer of "+overallAnswer+".");
+  
