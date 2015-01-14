@@ -77,7 +77,7 @@ fruitBowl.splice(1,1,"Kiwi");
 console.log(fruitBowl);
 //Adding more items
 fruitBowl.splice(1,0,"Tangerines","Mango","Grapes");
-console.log(fruitBowl);  
+console.log(fruitBowl);
 
 
 
