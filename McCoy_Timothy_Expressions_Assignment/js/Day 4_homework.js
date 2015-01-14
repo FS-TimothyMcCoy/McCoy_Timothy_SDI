@@ -1,4 +1,3 @@
-
 /*
  Timothy McCoy
  SDI Campus
@@ -14,4 +13,8 @@ var c = prompt("Input your value for side c");
 var perimeterTriangle = Number(a) + Number(b) + Number(c);
 console.log ("After adding a+b+c you came up with a sum of "+perimeterTriangle+" for a perimeter value.");
 //Introduce new steps
- 
+var userInput =("Two new Steps have been added to the process.");
+console.log(userInput);
+var userInput2 = ("Next, you must add an even integer to your answer then divide it by\n another even integer below the number 6.");
+console.log(userInput2);
+   
