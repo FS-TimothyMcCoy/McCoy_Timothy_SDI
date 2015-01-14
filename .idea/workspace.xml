@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js" afterPath="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js" />
-    </list>
+    <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="" />
     <ignored path="McCoy_Timothy_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
