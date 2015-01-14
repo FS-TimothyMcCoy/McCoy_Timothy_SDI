@@ -12,3 +12,6 @@ var a = prompt("We are trying to calculate the perimeter of a triangle." +
 var b = prompt("Input your value for side b.");
 var c = prompt("Input your value for side c");
 var perimeterTriangle = Number(a) + Number(b) + Number(c);
+console.log ("After adding a+b+c you came up with a sum of "+perimeterTriangle+" for a perimeter value.");
+//Introduce new steps
+ 
