@@ -36,9 +36,12 @@ console.log("You only have "+gasLeft+" gallons of gas in your tank, better get g
  } else if(usernameByUser!= correctUser && passwordByUser === correctPass){
   console.log("User not found. Try again.");
 
- } else {
-  console
+ } else if(usernameByUser === correctUser && passwordByUser != correctUser) {
+  console.log("Password does not match our records.");
 
  }
+
+ 
+
 
 
