@@ -26,5 +26,19 @@ console.log("You only have "+gasLeft+" gallons of gas in your tank, better get g
 
 //Group 2:Multiple Results
  //Check the login
+ var usernameByUser = "Johnny";
+ var passwordByUser = "Appleseed";
+ var correctUser = "Johnny";
+ var correctPass = "Appleseed";
+ if(usernameByUser === correctUser && passwordByUser === correctPass){
+  console.log("Welcome, Johnny!");
+
+ } else if(usernameByUser!= correctUser && passwordByUser === correctPass){
+  console.log("User not found. Try again.");
+
+ } else {
+  console
+
+ }
 
 
