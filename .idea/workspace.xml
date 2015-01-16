@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5/js/Day 5_Logical operators.js" afterPath="$PROJECT_DIR$/Day 5/js/Day 5_Logical operators.js" />
-    </list>
+    <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="" />
     <ignored path="McCoy_Timothy_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,41 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Day 5 conditional.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/Day 5 conditional.html">
+      <file leaf-file-name="Day 5 Ternary.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 5/Day 5 Ternary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 5 Conditional.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/Day 5 Conditional.js">
+      <file leaf-file-name="Day 5_Ternary.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 5/js/Day 5_Ternary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="1200">
-              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 5 Logical operators.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/Day 5 Logical operators.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 5_Logical operators.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/Day 5_Logical operators.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.81065917" vertical-offset="97" max-vertical-offset="915">
-              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.67321175" vertical-offset="0" max-vertical-offset="750">
+              <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -91,6 +69,8 @@
         <option value="$PROJECT_DIR$/Day 5/js/Day 5 Conditional.js" />
         <option value="$PROJECT_DIR$/Day 5/Day 5 Logical operators.html" />
         <option value="$PROJECT_DIR$/Day 5/js/Day 5_Logical operators.js" />
+        <option value="$PROJECT_DIR$/Day 5/js/Day 5 Ternary.html" />
+        <option value="$PROJECT_DIR$/Day 5/js/Day 5_Ternary.js" />
       </list>
     </option>
   </component>
@@ -193,6 +173,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day 5" />
       <recent name="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js" />
     </key>
   </component>
@@ -305,6 +286,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2235">
           <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -389,6 +373,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.28331" vertical-offset="412" max-vertical-offset="2235">
           <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -444,8 +431,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/Day 5_Logical operators.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81065917" vertical-offset="97" max-vertical-offset="915">
+        <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="915">
           <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/Day 5 Ternary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/js/Day 5_Ternary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67321175" vertical-offset="0" max-vertical-offset="750">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
           <folding />
         </state>
       </provider>
