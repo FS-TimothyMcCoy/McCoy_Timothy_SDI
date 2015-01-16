@@ -33,7 +33,7 @@ console.log("You only have "+gasLeft+" gallons of gas in your tank, better get g
  if(usernameByUser === correctUser && passwordByUser === correctPass){
   console.log("Welcome, Johnny!");
 
- } else if(usernameByUser!= correctUser && passwordByUser === correctPass){
+ } else if(usernameByUser!= correctUser){
   console.log("User not found. Try again.");
 
  } else if(usernameByUser === correctUser && passwordByUser != correctUser) {
@@ -41,7 +41,10 @@ console.log("You only have "+gasLeft+" gallons of gas in your tank, better get g
 
  }
 
- 
+ //Last group
+ //Movie Ticket Price
+
+
 
 
 
