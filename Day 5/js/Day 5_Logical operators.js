@@ -35,3 +35,21 @@ Logical Operators
   console.log("Do not buy the 3DS! Because you are broke.");
  }
 
+ //Lets buy a smartTV if it is less than our budget
+ //OR we won the lottery
+
+
+
+
+ var tvPrice = 540;
+ var tvBudget = 500;
+ var wonLottery = true;
+
+ if(tvPrice < tvBudget || wonLottery){
+console.log("Let's go buy a TV");
+
+ } else{
+  console.log("Stick with your small tv");
+
+ }
+
