@@ -30,7 +30,7 @@ Ternary
 
 
 //Decide what book a kid will read
- var age = 16; 
+ var age = 16;
  var book;
 
  //If the child is under 10 they read green eggs and ham
