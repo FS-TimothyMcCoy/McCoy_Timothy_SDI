@@ -45,21 +45,21 @@ console.log("You only have "+gasLeft+" gallons of gas in your tank, better get g
  //Movie Ticket Price
  //Gather Variables
  var movieTime = 7;
- var customerAge = 9;
+ var customerAge = 11;
  var originalTicketPrice = 12;
  var generalMovieDiscountTime1 = 3;
- generalMovieDiscountTime2 = 5;
+ var generalMovieDiscountTime2 = 5;
  var ageDiscounts1 = 10;
  var ageDiscounts2 = 55;
  var discountedTicketPrice = 7;
- if((movieTime >=generalMovieDiscountTime1 || movieTime <= generalMovieDiscountTime2 ) ||
-     (customerAge >= ageDiscounts1 || customerAge <= ageDiscounts2  ))
+ if((movieTime >=generalMovieDiscountTime1 && movieTime <= generalMovieDiscountTime2 ) ||
+     (customerAge <= ageDiscounts1 && customerAge <= ageDiscounts2  ))
  { console.log("The ticket price is $"+discountedTicketPrice+".00.");
 
 
  } else{
   console.log("The ticket price is $"+originalTicketPrice+".00.");
- 
+
  }
 
 
