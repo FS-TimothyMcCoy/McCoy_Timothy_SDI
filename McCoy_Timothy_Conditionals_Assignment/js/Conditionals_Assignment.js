@@ -36,12 +36,7 @@ if (userMoviePrice <= walletLimit) {
     //Simple addition practice
     var userAnswer = parseInt(prompt("Here is a simple math problem. What is 1-1?"));
     //conditional
-    if (userAnswer === rightAnswer) {
-        console.log("You got it right!");
-    } else{
-        
-        console.log("I'm sorry your answer is incorrect.");
-    }
+    (userAnswer === rightAnswer) ? console.log("You got it right!"):console.log("I'm sorry your answer is incorrect.");
     
     
     
