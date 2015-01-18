@@ -5,7 +5,7 @@ stay at home and play video games,
 or go to the arcade with a friend?
 Well it all depends on how his wallet feels about this.
 */
-var payingAttention = parseInt(prompt("Please choose an event and input how much money you will spend on it. If you are not spending any money on it then input the value 0. Just to check if you are reading the prompt please input the value zero now."));
+var payingAttention = parseInt(prompt("Please choose an event and input how much money you will spend on it. If you are not spending any money on it then do not input a value. Just to check if you are reading the prompt please input the value zero now."));
 var correctAnswer = 0;  
 if (payingAttention === correctAnswer) {
     console.log("Great job user! You have verified that you are paying attention.");
@@ -28,6 +28,22 @@ if (userMoviePrice <= walletLimit) {
     } else {
         console.log("Sorry you do not have the sufficient funds to attend this event.");
     }
+    //Variable naming
+    num1 = 1;
+    var rightAnswer= --num1;
+    
+    
+    //Simple addition practice
+    var userAnswer = parseInt(prompt("Here is a simple math problem. What is 1-1?"));
+    //conditional
+    if (userAnswer === rightAnswer) {
+        console.log("You got it right!");
+    } else{
+        
+        console.log("I'm sorry your answer is incorrect.");
+    }
+    
+    
     
 
 
