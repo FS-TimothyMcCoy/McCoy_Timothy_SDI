@@ -18,7 +18,28 @@ while(age<19){
     //Change for age variable
     age++;
 }
+//Do While Loops
+//Counting how many hot pockets you consumed today without going past 6
+//TJ isn't allowed to have more than 6 hot pockets a day
 
+var hotPockets = prompt("Pick how many hot pockets you want \n then count how many there were in total. \n Keep in mind that there were only 6 hot pockets to begin with.");
+while(isNaN(hotPockets)|| hotPockets === ""){
+    
+    var hotPockets = prompt("The data you have entered does not seem to be a number or is not an input at all, \n please try again TJ.");
+}
+
+do{
+    
+    console.log("TJ ate "+hotPockets+" Hot Pockets today.");
+    hotPockets++;
+    
+    
+} while(hotPockets<6);
+
+
+
+//Create a For loop
+//Create prompt for my variable
 
 
 
