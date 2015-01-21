@@ -40,7 +40,21 @@ do{
 
 //Create a For loop
 //Create prompt for my variable
+var cakesBaked = parseInt(prompt("Input how many cakes you want to bake.\n The number given will then have 2 added to its value until it reaches 16 cakes."));
 
+while(isNaN(cakesBaked)|| cakesBaked === ""){
+        var cakesBaked = prompt("The input that was recieved was either not a number or not an input at all, please try again.");
+        
+    }
+for(var cakesBaked;  cakesBaked <=16; cakesBaked+=2){
+    
+    
+    
+    
+    //Code to running as long as cakes is less than 16
+    console.log("You baked "+cakesBaked+" cakes.");
+    
+}
 
 
 
