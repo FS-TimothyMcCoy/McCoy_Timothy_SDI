@@ -23,6 +23,38 @@ var height = prompt("Please enter the height of your suitcase.");
 while(height === "" || isNaN(height)){
     height = prompt("Please do not leave blank and only use numbers. \nWhat is the height?")
     }
+    var evenInteger = prompt("Please enter an even integer under 6.");
+    while(isNaN(evenInteger) || evenInteger >=6){
+        evenInteger = prompt("Please do not leave blank and only use numbers. \nWhat is your integer?")
+        
+    }
     
 //Start on functions
+//Normal Function
+
+function caseVolume(l,w,h){
+    var volume = l * w * h;
+    return volume;
     
+};
+//Function call
+var answer1 = caseVolume(length,width,height);
+console.log("The volume of your suitcase is "+answer1);
+
+//Anonymous function
+var caseVolumeAnon = function(eI){
+    var quotient = answer1/evenInteger;
+    return quotient;
+    
+}
+//Anonymous Function call
+var quotient = caseVolumeAnon(evenInteger);
+console.log("The results of the even integer division are "+quotient);
+
+
+
+
+
+
+    
+
