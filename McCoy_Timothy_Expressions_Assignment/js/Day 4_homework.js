@@ -8,8 +8,20 @@ alert("Testing to see if it works")
 ///List your variables and values.
 var a = prompt("We are trying to calculate the perimeter of a triangle." +
 "Input your number for value a.");
+while(a === "" || isNaN(a)){
+ var a = prompt("Please only use numbers and dont leave blank. \nWhat is side a?");
+
+}
 var b = prompt("Input your value for side b.");
+while(b === "" || isNaN(b)){
+ var b = prompt("Please only use numbers and dont leave blank. \nWhat is side b?");
+
+}
 var c = prompt("Input your value for side c");
+while( c === "" || isNaN(c)){
+ var c = prompt("Please only use numbers and dont leave blank. \nWhat is side c?"); 
+
+}
 var perimeterTriangle = Number(a) + Number(b) + Number(c);
 console.log ("After adding a+b+c you came up with a sum of "+perimeterTriangle+" for a perimeter value.");
 //Introduce new steps

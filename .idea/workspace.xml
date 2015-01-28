@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/McCoy_Timothy_Conditionals_Assignment/js/Conditionals_Assignment.js" afterPath="$PROJECT_DIR$/McCoy_Timothy_Conditionals_Assignment/js/Conditionals_Assignment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Worksheet/js/Functions_Worksheet.js" afterPath="$PROJECT_DIR$/Functions_Worksheet/js/Functions_Worksheet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_Worksheet/js/Loops_Homework.js" afterPath="$PROJECT_DIR$/Loops_Worksheet/js/Loops_Homework.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js" afterPath="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js" />
     </list>
     <ignored path="McCoy_Timothy_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,21 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals_Assignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/McCoy_Timothy_Conditionals_Assignment/js/Conditionals_Assignment.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33239833" vertical-offset="198" max-vertical-offset="1290">
-              <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 4_homework.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Day 4_homework.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.42075735" vertical-offset="0" max-vertical-offset="900">
+              <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -80,7 +68,6 @@
         <option value="$PROJECT_DIR$/Day 4/js/Day 4_Casting.js" />
         <option value="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/Day 4_homework.js" />
         <option value="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/Day 4_homework.html" />
-        <option value="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js" />
         <option value="$PROJECT_DIR$/Day 5/Day 5 conditional.html" />
         <option value="$PROJECT_DIR$/Day 5/js/Day 5 Conditional.js" />
         <option value="$PROJECT_DIR$/Day 5/Day 5 Logical operators.html" />
@@ -95,6 +82,7 @@
         <option value="$PROJECT_DIR$/Functions_Worksheet/js/Functions_Worksheet.js" />
         <option value="$PROJECT_DIR$/Loops_Worksheet/js/Loops_Homework.js" />
         <option value="$PROJECT_DIR$/McCoy_Timothy_Conditionals_Assignment/js/Conditionals_Assignment.js" />
+        <option value="$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js" />
       </list>
     </option>
   </component>
@@ -541,10 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js">
+    <entry file="file://$PROJECT_DIR$/McCoy_Timothy_Conditionals_Assignment/js/Conditionals_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.33239833" vertical-offset="198" max-vertical-offset="1290">
+          <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
           <folding />
         </state>
       </provider>
@@ -559,10 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/McCoy_Timothy_Conditionals_Assignment/js/Conditionals_Assignment.js">
+    <entry file="file://$PROJECT_DIR$/McCoy_Timothy_Expressions_Assignment/js/Day 4_homework.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33239833" vertical-offset="198" max-vertical-offset="1290">
-          <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
+        <state vertical-scroll-proportion="0.42075735" vertical-offset="0" max-vertical-offset="900">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
           <folding />
         </state>
       </provider>
