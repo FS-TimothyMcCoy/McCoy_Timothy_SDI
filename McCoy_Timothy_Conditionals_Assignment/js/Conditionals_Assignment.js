@@ -14,7 +14,11 @@ if (payingAttention === correctAnswer) {
 }
 
 //Declare your variables
-var walletLimit = 100; 
+var walletLimit = prompt("What is the limit of your wallet?");
+while(walletLimit === "" || isNaN(walletLimit)){
+    walletLimit = prompt("Please only use numbers and do not leave blank. \nWhat is your wallet's limit?");
+
+}
 var userMoviePrice = parseInt(prompt("How much money are you spending on the movie?"));
 var userGameSnackPrice = parseInt(prompt("How much money are you spending on snacks?"));
 var userArcadePrice = parseInt(prompt("How much money are you spending at the arcade?"));

@@ -32,7 +32,7 @@ console.log("The circumfrence of the circle is "+returnedCircumfrence);
 
 var weight = prompt("What is the victim's weight?");
 while(weight === "" || isNaN(weight)){
-    weight = prompt("Please use only numbers and do not leave blank. \nWhat is the victim's weight?"); 
+    weight = prompt("Please use only numbers and do not leave blank. \nWhat is the victim's weight?");
 
 }
 

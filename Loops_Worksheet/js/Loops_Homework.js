@@ -18,6 +18,16 @@ while(age<19){
     //Change for age variable
     age++;
 }
+//See how many letters are in your name
+var firstName = prompt("What is your first name?");
+console.log("There are "+firstName.length+" letters in my first name!");
+
+
+
+
+
+
+
 //Do While Loops
 //Counting how many hot pockets you consumed today without going past 6
 //TJ isn't allowed to have more than 6 hot pockets a day
