@@ -65,8 +65,8 @@ function combinedRect(w,h){
 }
 //Function call
 var combinedResults = combinedRect(width,height);
-console.log(combinedResults[0]);
-console.log(combinedResults[1]);
+console.log("The area of the rectangle is "+combinedResults[0]);
+console.log("The perimeter is "+combinedResults[1]);
 console.log(combinedResults);
 
 

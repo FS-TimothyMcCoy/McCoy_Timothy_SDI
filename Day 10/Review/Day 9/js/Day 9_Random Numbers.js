@@ -7,7 +7,7 @@ Timothy McCoy
 
 //Create variables for min and max value
 
-var min = prompt("Please enter a min value.");
+var min = parseInt(prompt("Please enter a min value."));
 //Validate our min prompt
 while(isNaN(min) || min === ""){
     //Re-prompt for correct info

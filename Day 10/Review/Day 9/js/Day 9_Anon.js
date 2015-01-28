@@ -56,4 +56,12 @@ var triAreaAnon = function(b,h){
 //Function call after defined of anon function
 var results3 = triAreaAnon(4,5);
 console.log("Results of anonymous function after defined is "+results3);
+//3 parameter function
+var threePar = function(l,w,h){
+    var product = l*w*h;
+    return product;
+}
+var results8 = threePar(5,6,8);
+console.log("Results of results8 are "+results8);
+
 

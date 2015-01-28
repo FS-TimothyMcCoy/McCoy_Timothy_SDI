@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_ArgPar.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_ArgPar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Functions.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Looping Arrays.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Looping Arrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Return.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Return.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Scope.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Scope.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Validation.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Validation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Anon.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Anon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Multiple.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Multiple.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Procedures.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Procedures.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Random Numbers.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Random Numbers.js" />
     </list>
     <ignored path="McCoy_Timothy_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,6 +82,10 @@
         <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_ArgPar.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Return.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/Day 8_Scope.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Procedures.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Multiple.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Anon.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Random Numbers.js" />
       </list>
     </option>
   </component>
@@ -370,41 +372,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 3/Day 3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day3LabExpressions/Day3LabExpressions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/Script2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6" vertical-offset="180" max-vertical-offset="1005">
-          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/Day 4 prompting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10885341" vertical-offset="0" max-vertical-offset="689">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/Day 3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10885341" vertical-offset="0" max-vertical-offset="689">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3LabExpressions/Day3LabExpressions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10885341" vertical-offset="0" max-vertical-offset="689">
@@ -728,7 +695,7 @@
         <state vertical-scroll-proportion="0.29453015" vertical-offset="0" max-vertical-offset="713">
           <caret line="14" column="114" selection-start-line="14" selection-start-column="114" selection-end-line="14" selection-end-column="114" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -738,7 +705,7 @@
         <state vertical-scroll-proportion="0.91584855" vertical-offset="202" max-vertical-offset="945">
           <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -748,7 +715,7 @@
         <state vertical-scroll-proportion="0.44179523" vertical-offset="0" max-vertical-offset="750">
           <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -758,7 +725,7 @@
         <state vertical-scroll-proportion="0.7363254" vertical-offset="0" max-vertical-offset="720">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -768,7 +735,7 @@
         <state vertical-scroll-proportion="0.56802243" vertical-offset="0" max-vertical-offset="750">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -778,7 +745,7 @@
         <state vertical-scroll-proportion="0.6423562" vertical-offset="337" max-vertical-offset="1125">
           <caret line="53" column="60" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -787,6 +754,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="713">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Procedures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8415147" vertical-offset="0" max-vertical-offset="720">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 9/Day 9 Multiple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Multiple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81065917" vertical-offset="457" max-vertical-offset="1170">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Anon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8948107" vertical-offset="322" max-vertical-offset="1095">
+          <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Random Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18934081" vertical-offset="0" max-vertical-offset="915">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

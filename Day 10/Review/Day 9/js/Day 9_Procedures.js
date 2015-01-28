@@ -20,7 +20,7 @@ console.log(results);
 
 //This is a procedure
 //It does not return a value
-//List of stepts to do
+//List of steps to do
 function calcAreaP(width,height){
     //calculations
     var area = width * height
@@ -35,4 +35,8 @@ calcAreaP(6,7);
 
 alert("Test");//Procedure 
 var userInput = prompt("ask a question.");//Prompting is a function
+while(userInput === ""){
+
+    var userInput = prompt("Please do not leave blank.");
+}
 
