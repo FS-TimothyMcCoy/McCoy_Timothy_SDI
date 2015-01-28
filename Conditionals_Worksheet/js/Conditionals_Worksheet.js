@@ -21,7 +21,7 @@ console.log("Yes you can make it without stopping for gas!");
  } else{
 console.log("You only have "+gasLeft+" gallons of gas in your tank, better get gas while you can!");
 
- }
+ } 
 
 
 //Group 2:Multiple Results

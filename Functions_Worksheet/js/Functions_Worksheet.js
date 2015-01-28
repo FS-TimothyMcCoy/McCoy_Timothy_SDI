@@ -9,7 +9,10 @@ Functions Worksheet
 //Circumfrence
 //Calculate the circumfrence of a circle
 
-var radius = 1;
+var radius = prompt("What is the radius?");
+while(radius === "" || isNaN(radius)){
+    radius = prompt("Please only use numbers and do not leave blank. \nWhat is the radius?");
+}
 
 function calcCircumf(r){
     var circumfrence = r*2*Math.PI;
@@ -27,7 +30,11 @@ console.log("The circumfrence of the circle is "+returnedCircumfrence);
 //STUNG!!
 
 
-var weight = 1;
+var weight = prompt("What is the victim's weight?");
+while(weight === "" || isNaN(weight)){
+    weight = prompt("Please use only numbers and do not leave blank. \nWhat is the victim's weight?"); 
+
+}
 
 function beeStings(weight){
     var stingsPer = 8.666666667;
