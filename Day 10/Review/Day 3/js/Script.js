@@ -104,9 +104,9 @@ var wrong="true";
 // Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction
 
 //Find quiz averages
-var quiz1= 87;
-var quiz2= 100;
-var quiz3= 70;
+var quiz1= prompt("What is the first quiz grade?");
+var quiz2= prompt("What is the second quiz grade?");
+var quiz3= prompt("What is the third quiz grade?");
 
 //Average - add them up and divide by how many there are
 var average= (quiz1 +quiz2+ quiz3) /3;
