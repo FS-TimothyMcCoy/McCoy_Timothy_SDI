@@ -20,3 +20,10 @@ for(var i= 99; i>0; i--){
     }
     
 }
+var question = prompt("What country is this song a tradition in?");
+if(question === "" || question != "United States"){
+console.log("Great job!");
+
+} else{
+    console.log("Your answer was incorrect. \nPlease try again.");
+}

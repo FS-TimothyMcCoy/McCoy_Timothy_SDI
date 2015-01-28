@@ -20,7 +20,7 @@ for(var i = 0; i <20; i+=4){
 }
 
 for(var k = 0; k<5; k++){
-    console.log("The value of k is "+ k);
+    console.log("The value of k is "+ k+" and this value stops at 3.");
     //Add a break point into this
     //If k is equal to 3 then stop the code
     if (k===3) {

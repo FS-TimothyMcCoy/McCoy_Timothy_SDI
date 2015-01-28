@@ -24,7 +24,7 @@ while(counter<20){
     //Code that will run as long as counter is less than 20 (counter<20)
     console.log(counter+ " Some things just never end");
     //Change for counter variable
-    counter++;
+    counter--;
 }
 //Do while loop
 //The code will run at least once before checking the condition

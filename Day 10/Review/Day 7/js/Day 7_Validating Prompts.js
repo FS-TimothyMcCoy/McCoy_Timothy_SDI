@@ -42,9 +42,15 @@ while(choice != "yes"){
     choice = prompt("Please only type in yes or no!");
     
 }
-choice = choice. toLowerCase();
+choice = choice.toLowerCase();
 while(choice !="yes" && choice !="no"){
     choice = prompt("Please enter the correct thing")
+}
+//Simple number input validator
+var number = prompt("Enter a number");
+while(number === "" || isNaN(number)){
+    var number = prompt("Please only enter numbers and do not leave blank. \nEnter a Number please.");
+
 }
 
 

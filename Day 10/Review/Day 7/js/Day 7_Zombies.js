@@ -10,7 +10,11 @@ Day 7 Zombie Attack
 //It can bite 4 people a day and turn them into zombies
 //So now the CDC wants to know how many zombies there will be in 8 days
 
-var numZombies = 1; //How many zombie do we have
+var numZombies = prompt("How many zombies are there?");
+ while(numZombies === "" || isNaN(numZombies) ){
+     var numZombies = prompt("Please only enter a number and do not leave blank. \nHow many zombies are there?");
+
+ }//How many zombie do we have
 var numBites = 4; //Number of bites per zombie per day
 var day = 8; // Number of days
 var daysTakes = 0;
