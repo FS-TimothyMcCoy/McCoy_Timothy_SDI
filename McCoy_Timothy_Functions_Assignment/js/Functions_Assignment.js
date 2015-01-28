@@ -31,6 +31,7 @@ while(height === "" || isNaN(height)){
     
 //Start on functions
 //Normal Function
+alert("Starting on the functions now!")
 
 function caseVolume(l,w,h){
     var volume = l * w * h;

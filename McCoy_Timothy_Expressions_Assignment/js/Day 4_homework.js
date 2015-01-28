@@ -19,7 +19,7 @@ while(b === "" || isNaN(b)){
 }
 var c = prompt("Input your value for side c");
 while( c === "" || isNaN(c)){
- var c = prompt("Please only use numbers and dont leave blank. \nWhat is side c?"); 
+ var c = prompt("Please only use numbers and dont leave blank. \nWhat is side c?");
 
 }
 var perimeterTriangle = Number(a) + Number(b) + Number(c);
