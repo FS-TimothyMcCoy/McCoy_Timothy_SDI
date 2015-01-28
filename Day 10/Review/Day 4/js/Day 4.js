@@ -2,13 +2,13 @@
 Timothy McCoy SDI Campus 1/13/15 Day 4 In Class Assignment
 Arrays
  */
-alert("Testing to see if this is connected");
+//alert("Testing to see if this is connected");
 
 //Lets create a basic array
 var avengersNames = ["Thor","Captain America","Iron Man"];
 
 //Print it out to the console
-console.log(avengersNames);
+console.log("The avenger's names are "+avengersNames);
 //Print out one specific item
 console.log(avengersNames[1]);
 //Switch a team member - Iron man for spiderman

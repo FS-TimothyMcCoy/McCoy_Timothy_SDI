@@ -17,9 +17,9 @@ alert("Testing to see if it works")
  var castingResults= 7 + Number(stringVar);
  console.log(castingResults);
  //String() - anything inside () is treated as a text string
- var areaCode = 407;
- var firstPart = 203;
- var secondPart= 1234;
+ var areaCode = prompt("Enter three digits.");
+ var firstPart = prompt("Enter three digits.");
+ var secondPart= prompt("Enter 4 digits.");
 
  var phoneNumber = String(areaCode) +
      String(firstPart) + String(secondPart);
