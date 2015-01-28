@@ -94,6 +94,7 @@ var randomCookie = Math.round(Math.random() * (arrOfItems.length - 1));
 console.log("My current favorite is " +arrOfItems[randomCookie]);
 console.log(Math.PI);
 console.log(Math.SQRT2);
+console.log("There are "+arrOfItems.length+" items in your array.")
 
     
     
