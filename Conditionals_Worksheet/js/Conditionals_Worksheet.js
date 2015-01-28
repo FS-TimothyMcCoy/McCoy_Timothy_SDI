@@ -28,8 +28,8 @@ console.log("You only have "+gasLeft+" gallons of gas in your tank, better get g
  //Check the login
  var usernameByUser = "Johnny";
  var passwordByUser = "Appleseed";
- var correctUser = "Johnny";
- var correctPass = "Appleseed";
+ var correctUser = prompt("What is your username?");
+ var correctPass = prompt("What is your password?");
  if(usernameByUser === correctUser && passwordByUser === correctPass){
   console.log("Welcome, Johnny!");
 
