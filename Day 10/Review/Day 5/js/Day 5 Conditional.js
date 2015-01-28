@@ -27,9 +27,9 @@ Code to run if the condition is false
  console.log("What comes after the if statement.");
 //Relationship operators
  //If the kid is over 48 inches tall then he can ride
- var kidHeight = 47;
+ var kidHeight = parseInt(prompt("What is the child's height?"));
  //Create variable for minimum height
- var minHeight = 48;
+ var minHeight = 8;
 
  //Create a variable for a shoe lift
  var shoeLift = 2;

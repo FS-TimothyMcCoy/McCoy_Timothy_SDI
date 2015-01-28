@@ -21,7 +21,7 @@ var length = prompt("Please only use numbers and do not leave blank. \nWhat is t
 }
 var width = prompt("Please enter in width:");
 while(width === "" || isNaN(width)){
-    var width = prompt("Please only use numbers and do not leave blank. \nWhat is the width?"); 
+    var width = prompt("Please only use numbers and do not leave blank. \nWhat is the width?");
 
 }
 

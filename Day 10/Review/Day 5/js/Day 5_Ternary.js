@@ -30,7 +30,11 @@ Ternary
 
 
 //Decide what book a kid will read
- var age = 16;
+ var age = prompt("How old are you?");
+ while(age === "" || isNaN(age)){
+  age = prompt("Please only use numbers and do not leave blank. \nHow old are you?");
+
+ }
  var book;
 
  //If the child is under 10 they read green eggs and ham

@@ -26,8 +26,8 @@ Logical Operators
  //If the price of 3DS is less than budget lets buy it
 //AND if our paycheck is over $500
  var budget = 300;
- var dsPrice = 169;
- var payCheck = 600;
+ var dsPrice = prompt("What is the price of the ds that you want?");
+ var payCheck = prompt("How much money did you get in your paycheck?");
 
  if (dsPrice < budget && payCheck > 500){
   console.log("Buy the 3DS!");
