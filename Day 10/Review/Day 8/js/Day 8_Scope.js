@@ -19,7 +19,11 @@ var width = 5; //Scoped outside of the function - main code
 //Create a function that calculates the perimeter of a rectangle
 
 function calcPeri() {
-    var width = 10; // scoped to the function calcPeri
+    var width = prompt("What is the width?"); // scoped to the function calcPeri
+    while(width === "" || isNaN(width)){
+
+        var width = prompt("Please only use numbers do not leave blank. \nWhat is the width.");
+    }
     console.log("Inside of the function the value of width is "+width);
     
     var height = 20;

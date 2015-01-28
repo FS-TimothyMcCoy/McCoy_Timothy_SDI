@@ -10,6 +10,8 @@ Day 8 ArgPar
 //Must have the same number of arguments and parameters...... usually
 
 //Create a function to calculate the area of a rectangle
+var width = prompt("What is the width?");
+var height = prompt("What is the height?");
 function calcArea(w,h) { //Parameters go here
     //var width = 10;
     //var height = 20;
@@ -23,7 +25,7 @@ function calcArea(w,h) { //Parameters go here
 
 
 //Function call
-calcArea(10,20);
+calcArea(width,height);
 calcArea(5,4);
 
 //Calculate dog Years

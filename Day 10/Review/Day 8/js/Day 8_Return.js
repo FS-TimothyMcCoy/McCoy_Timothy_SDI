@@ -51,7 +51,7 @@ console.log("The area of a circle with a radius of 3 is "+result2);
 
 //Prompt user for radius. THe calculate the area
 
-var userRad = prompt("Please type in a radius:");
+var userRad = parseInt(prompt("Please type in a radius:"));
 //Validate prompt
 while(isNaN(userRad) || userRad === ""){
     userRad = prompt("Please only use numbers. \nType in a radius:");

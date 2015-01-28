@@ -54,3 +54,5 @@ while(movieGenre != "action" && movieGenre != "comedy"){
     movieGenre = prompt("Only type in comedy or action. What genre do you want to watch?");
     
 }
+//Make an array of movies
+var myArray = ["The Avengers", "Lion King", "Mu - Lan"]
