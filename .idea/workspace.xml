@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Anon.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Anon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Multiple.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Multiple.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Procedures.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Procedures.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Random Numbers.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 9/js/Day 9_Random Numbers.js" />
-    </list>
+    <list default="true" id="0e05b971-ab58-4eb1-aa0a-790409ec5c97" name="Default" comment="" />
     <ignored path="McCoy_Timothy_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
